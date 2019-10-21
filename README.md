@@ -1,6 +1,6 @@
 # docker-sbt-coursier-nvm
 
-Image with coursier + sbt and also nvm.
+Image with sbt, yarn and  nvm.
 It come with the latest `node` version, as defined in nvm.
 
 nvm is only installed for `root`
